@@ -21,9 +21,6 @@ namespace AndOperators
 
 
 
-
-
-
         /// <summary>
         /// If 'a' and 'b' equal true -> return true , if 'a' and 'b' equal false -> return false , else return false.
         /// </summary>
